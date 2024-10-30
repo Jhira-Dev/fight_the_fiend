@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Energy Down
+  - Exit
+  - Enemy
+  - Energy up (big)
+  - Energy up (small)
+  - Red Fountain
+  - Blue Fountain
+  - Wormhole
+  - Chest
+  - Wormhole 2
+  - Skull
+  - Weapon
+  - Coin
+  - Club
+  - Axe
+  - Dagger
+  - Energy Up
+  - Key
+  - Barrier
+  - demonBoss
+  - FloorSpikes
+  - DamagePotion
+  - DefensePotion
+  - Sun Sword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BlockingLayer
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 74577907
+    locked: 0
+  - name: Items
+    uniqueID: 895060109
+    locked: 0
+  - name: Units
+    uniqueID: 2364302583
+    locked: 0

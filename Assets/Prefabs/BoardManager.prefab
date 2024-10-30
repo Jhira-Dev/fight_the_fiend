@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4900142547832769882
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4900142547832769880}
+  - component: {fileID: 4900142547832769883}
+  m_Layer: 0
+  m_Name: BoardManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4900142547832769880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4900142547832769882}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.6054993, y: 6.893222, z: -37.32035}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4900142547832769883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4900142547832769882}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01202e9f7f64f344fa97a76f3c0292e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  columns: 0
+  rows: 0
+  excludedObjects: []
+  potionCount:
+    minimum: 0
+    maximum: 0
+  coinCount:
+    minimum: 0
+    maximum: 0
+  weaponCount:
+    minimum: 0
+    maximum: 0
+  skullCount:
+    minimum: 0
+    maximum: 0
+  keyCount:
+    minimum: 0
+    maximum: 2
+  potionTiles: []
+  enemyTiles: []
+  coinTiles: []
+  weaponTiles: []
+  skullTiles:
+  - {fileID: 7167195916773293752, guid: 8fceea06e8a55bc49b3ca30be88ce27b, type: 3}
+  keyTiles:
+  - {fileID: 6223202680987546883, guid: 0008623ee2792944bb894b0877b1f673, type: 3}
+  playerposition: {fileID: 0}
+  demonBoss: {fileID: 0}
+  bossSpawner: {fileID: 0}
