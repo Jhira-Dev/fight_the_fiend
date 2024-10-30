@@ -2,6 +2,9 @@
 
 **Fight the Fiend** is a roguelike turn-based dungeon crawler built in Unity. Traverse procedurally generated dungeons, battle monstrous fiends, and acquire powerful loot as you journey through the depths of a dark and mysterious world. Beware: each level is unique, and every choice could be your last!
 
+## Playable at Itch.io
+https://jhira.itch.io/fight-the-fiend-version-1
+
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Features](#features)
